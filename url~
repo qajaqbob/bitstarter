@@ -1,1 +1,0 @@
-        .option('-u, --url <url>', 'URL of HTML to check', rest.get(url))
